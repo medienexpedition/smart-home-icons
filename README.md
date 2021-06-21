@@ -2,4 +2,4 @@
 
 A small collection of smart home icons.
 
-!blind_closed.png
+![blind_closed.png]
