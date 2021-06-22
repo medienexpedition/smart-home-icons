@@ -6,3 +6,5 @@ A small collection of smart home icons. Size is 64x64 pixel.
 ![](blind-open.png "blind-open.png")
 ![](bulb-on.png "bulb-on.png")
 ![](bulb-off.png "bulb-off.png")
+![](day-sun.png "day-sun.png")
+![](day-moon.png "day-moon.png")
