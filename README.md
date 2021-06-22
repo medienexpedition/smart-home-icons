@@ -1,6 +1,6 @@
 # smart-home-icons
 
-A small collection of smart home icons. Size is 64x64 pixel.
+A small collection of simple smart home icons. Size is 64x64 pixel.
 
 ![](blind-closed.png "blind-closed.png")
 ![](blind-open.png "blind-open.png")
